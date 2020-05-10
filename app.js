@@ -11,6 +11,4 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/users', users);
 app.use('/cards', cards);
 app.use('/*', missingLink);
-app.listen(3000, () => {
-  console.log(`App listening on port ${3000}`);
-});
+app.listen(3000, () => {});
