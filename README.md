@@ -1,3 +1,10 @@
-# Photo gallery with Node.js server
-# Frontend - HTML, CSS, JS
-# Backend - Node.js + Express.js
+# Local Photo gallery with Node.js server
+
+## Frontend Stack:
+### HTML
+### CSS 
+### JS
+
+## Backend Stack:
+### Node.js 
+### Express.js
